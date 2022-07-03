@@ -1,4 +1,4 @@
-# CFP
+# CFP - (solo src de React)
 Calendario Flexible Programable
 
 ## Integrantes 
